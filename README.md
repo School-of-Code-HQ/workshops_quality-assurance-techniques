@@ -1,1 +1,0 @@
-# workshops_quality-assurance-techniques
